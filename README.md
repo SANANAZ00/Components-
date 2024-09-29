@@ -6,9 +6,6 @@ code of page.tsx file>>>
  import About from "./components/About"
 import Header from "./components/Header"
 
-<Header>
-<About>
-
 
 export default function Home(){
   return(
